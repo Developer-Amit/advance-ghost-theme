@@ -1,0 +1,22 @@
+{
+  "name": "advance-ghost-theme",
+  "version": "2.0.5",
+  "description": "This theme for ghost-blog by @AmitMishra",
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/Developer-Amit/advance-ghost-theme/issues",
+    "email": "amitmishra@linkites.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "AmitMishra",
+    "email": "amitmishra@linkites.com",
+    "url": "http://developeramitmishra.tk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Developer-Amit/advance-ghost-theme.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
