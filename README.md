@@ -6,7 +6,7 @@
 
 
 ## Demo
-a sample demo here [blog](http://www.amgigs.com:2368/).
+a sample demo here [blog](https://www.amgigs.com/blog/).
 
 ## advance-ghost-theme Support for Web Browsers
 
